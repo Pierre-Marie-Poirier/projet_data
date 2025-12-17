@@ -1,0 +1,19 @@
+ID_Competence,Categorie,Nom_Competence,Niveau,Description
+1,Data Analysis,Analyse et valorisation des données pour la décision,5,Analyse et valorisation des données pour la décision
+2,DBMS/Databases,Conception et automatisation de pipelines et modèles,4,Conception et automatisation de pipelines et modèles
+3,Cloud,Optimisation d'outils IA/LLM (A/B tests prompts),4,Optimisation d'outils IA/LLM (A/B tests prompts)
+4,Data Visualization,Pilotage de projets data et réduction des coûts,3,Pilotage de projets data et réduction des coûts
+5,DBMS/Databases,SQL,5,SQL
+6,Programming,Python,3,Python (Pandas Scikit-learn Numpy)
+7,DBMS/Databases,Knime,4,Knime
+8,DBMS/Databases,DBT,4,DBT
+9,Cloud,Airbyte,3,Airbyte
+10,Data Analysis,BigQuery,5,BigQuery
+11,Data Visualization,Looker Studio,5,Looker Studio
+12,Data Analysis,Hex,5,Hex
+13,Data Visualization,Power BI,4,Power BI
+14,Data Visualization,Tableau,4,Tableau
+15,Programming,Base ML,3,Régressions clustering séries temporelles
+16,Data Analysis,AI Engineering,4,BQML Prompt engineering A/B testing Langfuse
+17,Programming,Low Code,2,Make Bubble n8n
+18,Cloud,Git,3,Gitlab Github

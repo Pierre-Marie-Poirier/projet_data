@@ -1,0 +1,55 @@
+Tâche,Phase,Date_Début,Date_Fin,Durée_Jours,Responsable,Statut,Avancement_%,Priorité
+Kick-off projet,Phase 1 - Conception,2026-01-01,2026-01-05,5,Chef de projet,Planifié,0,Haute
+Analyse des besoins métiers,Phase 1 - Conception,2026-01-01,2026-01-31,31,Chef de projet,Planifié,0,Haute
+Conception architecture technique,Phase 1 - Conception,2026-01-15,2026-02-15,32,Data Architect,Planifié,0,Haute
+Validation architecture technique,Phase 1 - Conception,2026-02-15,2026-02-20,6,Data Architect,Planifié,0,Haute
+Rédaction spécifications fonctionnelles,Phase 1 - Conception,2026-02-01,2026-02-28,28,Chef de projet,Planifié,0,Haute
+Validation spécifications fonctionnelles,Phase 1 - Conception,2026-02-28,2026-03-05,6,Product Owner,Planifié,0,Haute
+Planification détaillée du projet,Phase 1 - Conception,2026-02-20,2026-03-15,24,Chef de projet,Planifié,0,Moyenne
+Go/No-Go Phase 2,Phase 1 - Conception,2026-03-15,2026-03-31,17,Sponsor projet,Planifié,0,Haute
+Déploiement infrastructure cloud,Phase 2 - Data Lake,2026-04-01,2026-04-30,30,DevOps Engineer,Planifié,0,Haute
+Configuration Data Lake,Phase 2 - Data Lake,2026-04-15,2026-05-31,47,Data Architect,Planifié,0,Haute
+Développement pipeline données - Essais en vol,Phase 2 - Data Lake,2026-05-01,2026-06-15,46,Data Engineer,Planifié,0,Haute
+Développement pipeline données - Capteurs,Phase 2 - Data Lake,2026-05-15,2026-06-30,47,Data Engineer,Planifié,0,Haute
+Développement pipeline données - Opérations,Phase 2 - Data Lake,2026-06-01,2026-07-15,45,Data Engineer,Planifié,0,Haute
+Développement pipeline données - Maintenance,Phase 2 - Data Lake,2026-06-15,2026-07-31,47,Data Engineer,Planifié,0,Haute
+Développement pipeline données - Clients,Phase 2 - Data Lake,2026-07-01,2026-08-15,46,Data Engineer,Planifié,0,Haute
+Intégration et tests pipelines,Phase 2 - Data Lake,2026-08-01,2026-08-31,31,Data Engineer,Planifié,0,Haute
+Développement catalogue de données,Phase 2 - Data Lake,2026-07-15,2026-08-31,48,Data Governance Specialist,Planifié,0,Moyenne
+Documentation Data Lake,Phase 2 - Data Lake,2026-08-15,2026-09-15,32,Data Architect,Planifié,0,Moyenne
+Recette Data Lake,Phase 2 - Data Lake,2026-09-01,2026-09-15,15,Chef de projet,Planifié,0,Haute
+Go/No-Go Phase 3,Phase 2 - Data Lake,2026-09-15,2026-09-30,16,Sponsor projet,Planifié,0,Haute
+Développement solution Conception - MVP,Phase 3 - Solutions,2026-10-01,2026-11-15,46,BI Developer,Planifié,0,Haute
+Développement modèles ML - Conception,Phase 3 - Solutions,2026-10-15,2026-11-30,47,Data Scientist,Planifié,0,Haute
+Développement dashboards Conception,Phase 3 - Solutions,2026-11-01,2026-12-15,45,BI Developer,Planifié,0,Haute
+Intégration solution Conception,Phase 3 - Solutions,2026-12-01,2026-12-15,15,Chef de projet,Planifié,0,Haute
+Recette solution Conception,Phase 3 - Solutions,2026-12-15,2026-12-31,17,Product Owner,Planifié,0,Haute
+Développement solution Opérations - MVP,Phase 3 - Solutions,2026-11-01,2026-12-15,45,BI Developer,Planifié,0,Haute
+Développement système d'alertes,Phase 3 - Solutions,2026-11-15,2026-12-31,47,Data Engineer,Planifié,0,Haute
+Développement dashboards Opérations,Phase 3 - Solutions,2026-12-01,2027-01-15,46,BI Developer,Planifié,0,Haute
+Intégration solution Opérations,Phase 3 - Solutions,2027-01-01,2027-01-15,15,Chef de projet,Planifié,0,Haute
+Recette solution Opérations,Phase 3 - Solutions,2027-01-15,2027-01-31,17,Product Owner,Planifié,0,Haute
+Développement solution Maintenance - MVP,Phase 3 - Solutions,2027-01-01,2027-02-15,46,Data Scientist,Planifié,0,Haute
+Développement modèles prédictifs Maintenance,Phase 3 - Solutions,2027-01-15,2027-03-15,60,Data Scientist,Planifié,0,Haute
+Développement système alertes Maintenance,Phase 3 - Solutions,2027-02-15,2027-03-31,45,Data Engineer,Planifié,0,Haute
+Intégration solution Maintenance,Phase 3 - Solutions,2027-03-15,2027-03-31,17,Chef de projet,Planifié,0,Haute
+Recette solution Maintenance,Phase 3 - Solutions,2027-03-31,2027-04-15,16,Product Owner,Planifié,0,Haute
+Développement solution Sécurité - IAM,Phase 3 - Solutions,2027-02-01,2027-04-15,74,Data Governance Specialist,Planifié,0,Haute
+Développement solution Sécurité - Chiffrement,Phase 3 - Solutions,2027-02-15,2027-04-30,75,DevOps Engineer,Planifié,0,Haute
+Développement gouvernance données,Phase 3 - Solutions,2027-03-01,2027-05-15,76,Data Governance Specialist,Planifié,0,Haute
+Documentation procédures sécurité,Phase 3 - Solutions,2027-04-01,2027-05-31,61,Data Governance Specialist,Planifié,0,Moyenne
+Intégration solution Sécurité,Phase 3 - Solutions,2027-05-15,2027-05-31,17,Chef de projet,Planifié,0,Haute
+Recette solution Sécurité,Phase 3 - Solutions,2027-05-31,2027-06-15,16,Product Owner,Planifié,0,Haute
+Go/No-Go Phase 4,Phase 3 - Solutions,2027-06-15,2027-06-30,16,Sponsor projet,Planifié,0,Haute
+Déploiement en production,Phase 4 - Déploiement,2027-07-01,2027-07-15,15,DevOps Engineer,Planifié,0,Haute
+Tests de charge et performance,Phase 4 - Déploiement,2027-07-01,2027-07-20,20,DevOps Engineer,Planifié,0,Haute
+Formation utilisateurs - Conception,Phase 4 - Déploiement,2027-07-15,2027-07-25,11,Formateur,Planifié,0,Haute
+Formation utilisateurs - Opérations,Phase 4 - Déploiement,2027-07-20,2027-07-30,11,Formateur,Planifié,0,Haute
+Formation utilisateurs - Maintenance,Phase 4 - Déploiement,2027-07-25,2027-08-05,12,Formateur,Planifié,0,Haute
+Formation utilisateurs - Sécurité,Phase 4 - Déploiement,2027-07-30,2027-08-10,12,Formateur,Planifié,0,Haute
+Recette fonctionnelle globale,Phase 4 - Déploiement,2027-08-01,2027-08-20,20,Chef de projet,Planifié,0,Haute
+Documentation utilisateur finale,Phase 4 - Déploiement,2027-08-10,2027-08-31,22,Formateur,Planifié,0,Moyenne
+Documentation technique finale,Phase 4 - Déploiement,2027-08-15,2027-09-15,32,Data Architect,Planifié,0,Moyenne
+Transfert de connaissances,Phase 4 - Déploiement,2027-09-01,2027-09-15,15,Chef de projet,Planifié,0,Haute
+Clôture du projet,Phase 4 - Déploiement,2027-09-15,2027-09-30,16,Chef de projet,Planifié,0,Haute
+

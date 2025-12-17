@@ -1,0 +1,6 @@
+ID_Projet;Nom_Projet;Type;Description;Technologies;Lien_GitHub;Date_Realisation;Image_Path
+1;Obeya;Professionnel;Cr�ation des mod�les de donn�es sur dbt puis valorisation de la donn�e dans Looker Studio; DBT, Looker;BigQuery,,2024-01,;;
+2,Dashboards et suivi de performances,Création de dashboards et suivi de performances (Looker Studio Power BI Hex) avec formation des end users à la lecture et l'utilisation des tableaux de bords,Looker Studio;Power BI;Formation;Hex,,2024-01,;;;;
+3,Optimisation agent conversationnel LLM,Optimisation d'un agent conversationnel LLM (A/B tests prompt engineering migration GPT-4.1): +20% taux de réponse +2 taux de drop satisfaction utilisateur améliorée,GPT-4.1;Prompt Engineering;;A/B Testing;Langfuse;;2024-01;
+4,Appel d'offres stratégique SMS,Pilotage d'un appel d'offres stratégique pour le changement de provider SMS (2e poste de dépense) générant une réduction de 30% des coûts,Gestion de projet;Négociation,,2024-01,;;;;;;
+5,Start-up Foodymix,Création et développement d'une start-up foodtech spécialisée dans la livraison de panier recette (vision produit stratégie création du site),Entrepreneuriat;Stratégie;;Développement Web,,2021-01,;;;;
