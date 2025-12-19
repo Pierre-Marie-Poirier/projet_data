@@ -1,102 +1,150 @@
-# 💵 Projet 12 — Détection de faux billets pour l’ONCFM
+📁 Projet 13 — Création d’un portfolio professionnel Data Analyst / Chef de projet Data
+🎯 Objectif du projet
 
-## 🎯 Objectif du projet
+Ce projet a pour objectif de concevoir un portfolio en ligne personnalisé afin de valoriser mon profil de Data Analyst confirmé, avec une orientation gestion de projet, conseil et innovation data.
 
-Le projet avait pour objectif de **développer un modèle de machine learning** permettant de **prédire si un billet en euros est vrai ou faux** à partir de caractéristiques physiques (longueur, largeur, hauteur, etc.).
-Le projet inclut la **modélisation, le choix de l’algorithme et la création d’une application fonctionnelle** pour la détection des billets.
+Le portfolio a été pensé comme un outil d’employabilité, permettant de démontrer à la fois mes compétences techniques, ma posture de consultant, mes soft skills et ma capacité à structurer et piloter un projet data de bout en bout, dans un contexte proche de la réalité professionnelle.
 
----
+🧠 Compétences développées
+✔️ Gestion de projet data
 
-## 🧠 Compétences développées
+Analyse d’un besoin client complexe et formulation des enjeux métier
 
-### ✔️ Préparation et exploration des données
+Formalisation d’un cahier des charges fonctionnel
 
-* Nettoyage et vérification de la qualité des données (1500 billets, 1000 vrais et 500 faux)
-* Analyse des distributions et traitement des valeurs manquantes
-* Préparation des variables pour la modélisation
+Planification et organisation du projet à l’aide d’outils de gestion (diagramme de Gantt)
 
-### ✔️ Machine learning supervisé et non supervisé
+Structuration des livrables et priorisation des tâches
 
-* Test de plusieurs algorithmes :
+✔️ Posture de consultant
 
-  * **K-means** pour le clustering non supervisé
-  * **Régression logistique**
-  * **K-Nearest Neighbors (KNN)**
-  * **Random Forest**
-* Évaluation de chaque modèle avec les métriques adaptées (précision, rappel, F1-score, etc.)
-* Sélection du **modèle final** en fonction des performances et de la robustesse
+Compréhension et reformulation de la demande client
 
-### ✔️ Développement d’une application
+Capacité à challenger les besoins exprimés
 
-* Création d’un **notebook Python interactif** permettant à l’utilisateur de tester la nature d’un billet en entrant ses caractéristiques
-* Démonstration de la prédiction pour de nouveaux billets
+Positionnement en tant que pair et conseiller data
 
-### ✔️ Communication et data storytelling
+Vulgarisation de concepts techniques pour des publics variés
 
-* Préparation d’un **support de présentation de 20 slides** synthétique :
+✔️ Veille métier et technologique
 
-  * Méthodologie de traitement des données
-  * Comparaison des modèles et résultats
-  * Justification du choix du modèle final
-  * Présentation de l’application fonctionnelle
+Réalisation d’une veille data et technologique
 
----
+Exploration de nouveaux outils, méthodes et tendances en analyse de données
 
-## 🏢 Contexte du projet
+Synthèse et restitution claire des informations issues de la veille
 
-L’**ONCFM (Organisation nationale de lutte contre le faux-monnayage)** souhaitait automatiser la détection des faux billets pour aider ses équipes à **identifier rapidement les billets contrefaits**.
-Le projet devait produire :
+✔️ Data visualisation et communication
 
-* Un **modèle prédictif fiable**
-* Une **application fonctionnelle utilisable par les équipes**
-* Une **présentation claire des résultats et recommandations**
+Conception de tableaux de bord (veille & présentation de profil)
 
----
+Création de mock-ups sous Figma 
 
-## 🗂️ Étapes du projet
+Réalisation de dashboards sur Power BI
 
-### 📝 Étape 1 — Préparation des données
+Structuration d’un storytelling clair et impactant
 
-* Analyse du jeu de données de 1500 billets
-* Nettoyage, traitement des valeurs manquantes
-* Vérification de la cohérence et exploration statistique
+✔️ Documentation et accompagnement
 
----
+Rédaction de procédures et de documentation projet
 
-### 🔍 Étape 2 — Modélisation
+Création d’une vidéo de formation pour accompagner la prise en main des outils
 
-* Test de plusieurs algorithmes supervisés et non supervisés :
+Mise en place de supports pédagogiques pour les utilisateurs
 
-  * K-means
-  * Régression logistique
-  * KNN
-  * Random Forest
-* Comparaison des performances et choix du **meilleur modèle**
-* Évaluation avec métriques pertinentes (accuracy, recall, F1-score, matrice de confusion)
+🏢 Contexte du projet
 
----
+Le projet s’inscrit dans un scénario professionnel fictif au sein de l’entreprise de service numérique Data ESN, dans le cadre d’un recrutement pour le client Aéroworld, acteur international majeur de l’industrie aéronautique.
 
-### 📊 Étape 3 — Développement de l’application
+Aéroworld recherche un Data Analyst chef de projet expérimenté, capable de :
 
-* Création d’un **notebook Python interactif** permettant la prédiction de nouveaux billets
-* Mise en place d’une interface simple pour saisir les caractéristiques et obtenir un résultat
+Gérer des problématiques de data à grande échelle
 
----
+Structurer et piloter des projets data complexes
 
-### 🎤 Étape 4 — Présentation finale
+Accompagner les équipes métier
 
-* Support PowerPoint de **20 slides maximum**
-* Contenu :
+Être force de proposition en matière d’innovation et d’organisation data
 
-  * Méthodologie de collecte et préparation des données
-  * Comparaison et résultats des algorithmes testés
-  * Choix du modèle final et justification
-  * Démonstration de l’application fonctionnelle
+Le portfolio constitue ainsi un livrable central du processus de recrutement, analysé avant entretien.
 
----
+🗂️ Étapes du projet
+📝 Étape 1 — Analyse du besoin client
 
-## 📦 Livrables finaux
+Analyse de la problématique data d’Aéroworld
 
-* ✔️ Notebook Python contenant les **prétraitements et tests des différents algorithmes**
-* ✔️ Notebook Python contenant l’**application finale pour tester les billets**
-* ✔️ **Présentation PowerPoint** (20 slides) incluant méthodologie, résultats et application
+Identification des enjeux, contraintes et objectifs métier
+
+Compréhension des attentes en matière de recrutement
+
+📋 Étape 2 — Organisation du projet portfolio
+
+Rédaction d’une carte mentale pour structurer les idées et livrables
+
+Complétion du cahier des charges du projet
+
+Élaboration d’un diagramme de Gantt pour planifier le projet
+
+🎨 Étape 3 — Conception des supports
+
+Réalisation de mock-ups pour :
+
+Tableau de bord de veille
+
+Tableau de bord de présentation de profil
+
+Réflexion sur l’architecture et le design du portfolio
+
+📊 Étape 4 — Production des livrables data
+
+Création des tableaux de bord sur Power BI
+
+Réalisation d’une veille métier et technologique structurée
+
+Mise en forme des analyses et résultats
+
+📚 Étape 5 — Documentation et formation
+
+Rédaction de la documentation utilisateur
+
+Création d’une vidéo de formation sur power bi
+
+Accompagnement à la prise en main des outils
+
+🌐 Étape 6 — Intégration finale
+
+Intégration de l’ensemble des livrables dans un portfolio en ligne
+
+Publication du portfolio sur Github
+
+Préparation à la présentation orale du portfolio
+
+📦 Livrables finaux
+
+✔️ Portfolio en ligne présentant :
+
+Le profil professionnel
+
+Les projets réalisés
+
+Les compétences techniques et soft skills
+
+✔️ Carte mentale de cadrage du projet
+✔️ Cahier des charges fonctionnel
+✔️ Diagramme de Gantt
+✔️ Tableaux de bord de veille et de présentation
+✔️ Mock-ups des dashboards
+✔️ Documentation projet et utilisateur
+✔️ Vidéo de formation et d’accompagnement
+
+🚀 Finalité du projet
+
+Ce projet vise à démontrer ma capacité à :
+
+Gérer un projet data de manière structurée
+
+Valoriser mes compétences dans une démarche de conseil
+
+Communiquer efficacement avec des interlocuteurs techniques et non techniques
+
+Me positionner comme Data Analyst chef de projet, avec une ouverture vers le management et l’innovation
